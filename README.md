@@ -4,6 +4,8 @@ An unofficial Chrome extension for [HiBob](https://app.hibob.com). When you open
 
 It does this once, as the form opens, and shows a small note under the field saying it did. If you pick something else afterwards, your choice stays and the note goes away.
 
+<img src="docs/dialog.png" alt="HiBob's Give feedback form with 'Who will see this feedback?' set to Employee and manager, and the note 'Pre-selected by the Feedback Visibility extension.' under it" width="600">
+
 ## Install (5 minutes, no technical knowledge needed)
 
 1. Go to the [latest release](https://github.com/jacobo-doist/feedback-visibility-hibob/releases/latest) and download **feedback-visibility-hibob.zip** (under *Assets*).
